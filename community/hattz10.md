@@ -1,6 +1,6 @@
-#Olá, meu nome é Aleff, mas podem me chamar de HATTZ.
-<hr>
-## Sou estudante de Ciência de Dados, estou buscando aprender mais sobre Python e analise de dados. Tenho conhecimento em desenvolvimento front-end
+# Olá, meu nome é Aleff, mas podem me chamar de HATTZ.
+<hr/>
+Sou estudante de Ciência de Dados, estou buscando aprender mais sobre Python e analise de dados. Tenho conhecimento em desenvolvimento front-end
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/aleff-santos/)
